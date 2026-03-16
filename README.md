@@ -1,2 +1,20 @@
 # salman-portfolio
-Personal portfolio website of Muhammd Salman, showcasing my web development skills, projects, and resume. Built using HTML, CSS, and JavaScript with a modern responsive design.
+# Muhammd Salman Portfolio
+
+This is my personal developer portfolio website built using HTML, CSS, and JavaScript.
+
+## Features
+- Responsive design
+- Typing animation
+- Skills progress bars
+- Project showcase
+- Resume download
+- Contact form
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Live Website
+https://your-netlify-link.netlify.app
