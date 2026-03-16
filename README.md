@@ -16,5 +16,4 @@ This is my personal developer portfolio website built using HTML, CSS, and JavaS
 - CSS
 - JavaScript
 
-## Live Website
-https://your-netlify-link.netlify.app
+
